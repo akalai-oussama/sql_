@@ -1,0 +1,1 @@
+DELETE FROM `produit` WHERE `Couleur` = "noire" AND `NumP` BETWEEN 100 AND 1999;
